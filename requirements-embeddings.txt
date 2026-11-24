@@ -1,0 +1,2 @@
+# Optionnel : recherche par le sens (embeddings). Installe aussi PyTorch.
+sentence-transformers>=3.0

@@ -1,0 +1,18 @@
+[
+  {"question": "Combien coûte la livraison en France si je commande pour 70 euros ?", "source": "livraison.md"},
+  {"question": "Jusqu'à quelle heure puis-je commander pour un envoi le jour même ?", "source": "livraison.md"},
+  {"question": "Que se passe-t-il si mon colis est perdu par le transporteur ?", "source": "livraison.md"},
+  {"question": "Combien de temps ai-je pour renvoyer un article ?", "source": "retours.md"},
+  {"question": "Qui paie les frais de retour ?", "source": "retours.md"},
+  {"question": "Quand serai-je remboursé après avoir renvoyé mon colis ?", "source": "retours.md"},
+  {"question": "Je mesure 1m78 et je pèse 75 kg, quelle taille prendre ?", "source": "guide_tailles.md"},
+  {"question": "Est-ce que les sweats taillent grand ou petit ?", "source": "guide_tailles.md"},
+  {"question": "Puis-je payer ma commande en plusieurs fois ?", "source": "paiement.md"},
+  {"question": "Mon code promo est refusé, pourquoi ?", "source": "paiement.md"},
+  {"question": "À quelle température laver un sweat ?", "source": "entretien.md"},
+  {"question": "Peut-on mettre un t-shirt imprimé au sèche-linge ?", "source": "entretien.md"},
+  {"question": "Quelle est la durée de la garantie ?", "source": "garantie_contact.md"},
+  {"question": "Quels sont les horaires du service client ?", "source": "garantie_contact.md"},
+  {"question": "Comment réclamer si le défaut de couture apparaît après 6 mois ?", "source": "garantie_contact.md"},
+  {"question": "Est-ce que je peux utiliser Apple Pay ?", "source": "paiement.md"}
+]

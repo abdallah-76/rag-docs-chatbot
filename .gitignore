@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Tes propres documents (ne pas publier de documents privés)
+data/private/
